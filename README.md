@@ -3,7 +3,7 @@ Analyzed e-commerce sales data using Python and Pandas to identify revenue trend
 
 ## Dashboard Preview
 
-![Dashboard Overview](ecommerce_sales_dashboard_overview.png)
+![Dashboard Overview](ecommerce_sales_dashboard.png)
 # E-Commerce Sales Analysis Dashboard
 
 This project analyzes e-commerce sales data to identify key business trends, customer purchasing behavior, product performance, and revenue patterns. The dataset was cleaned and processed using Python and Pandas, followed by exploratory data analysis to uncover insights related to sales growth, profit, orders, customer segments, and product categories.
